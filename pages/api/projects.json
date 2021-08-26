@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Expense tracker",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "Expense tracker app using hooks (useState, useContext, useReducer)",
+    "tags": ["react", "useState", "useContext", "useReducer", "front"],
+    "source_code": "https://github.com/Vasilec92/Expense-tracker-FRONT"
+  },
+  {
+    "id": 2,
+    "name": "Cooking Recipes",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "Application React : Cooking Recipes using an external and open API",
+    "tags": ["react", "front", "API"],
+    "source_code": "https://github.com/Vasilec92/Cooking-Recipes"
+  },
+
+  {
+    "id": 3,
+    "name": "Sticky Notes",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "Sticky Notes application using MERN stack( MongoDB, Express, React, Node). A MERN full-stack app that users can post sticky-messages.",
+    "tags": ["react", "MongoDB", "Express", "React", "Node"],
+    "source_code": "https://github.com/Vasilec92/Notes_application-BackEnd"
+  },
+  {
+    "id": 4,
+    "name": "ToDo list",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "ToDo list in React.js, JS,HTML/CSS",
+    "tags": ["react"],
+    "source_code": "https://github.com/Vasilec92/ToDo-list"
+  },
+  {
+    "id": 5,
+    "name": "Flashcard quiz",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "Application : flashcard quiz using React with an external API",
+    "tags": ["react"],
+    "source_code": "https://github.com/Vasilec92/Flashcard-quiz"
+  },
+  {
+    "id": 6,
+    "name": "Adobe Sign",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "Page to send out an agreement for the specified recipient to sign through Adobe APIs.",
+    "tags": ["react"],
+    "source_code": "https://github.com/Vasilec92/AdobeSign_APP"
+  }
+]
