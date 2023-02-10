@@ -53,5 +53,23 @@
     "tags": ["react"],
     "source_code": "https://github.com/Vasilec92/AdobeSign_APP",
     "demo": "https://adobe-sign-app.vercel.app"
+  },
+  {
+    "id": 7,
+    "name": "Svelte users list",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "List of users with pagination using an external API.",
+    "tags": ["Svelte.js", "API", "pagination"],
+    "source_code": "https://github.com/Vasilec92/test-Svelte",
+    "demo": "https://users-list-svelte.vercel.app"
+  },
+  {
+    "id": 8,
+    "name": "Project Shopping Cart with Vue.js",
+    "image": "https://imgur.com/mKkz0iz.png",
+    "description": "Front-Vue.js-Project Shopping Cart with Vue and storing cart in local storage",
+    "tags": ["Vue.js", "Shopping Cart", "local storage"],
+    "source_code": "https://github.com/Vasilec92/Front-Vue.js-Project",
+    "demo": "https://front-vue-js-project.vercel.app"
   }
 ]
