@@ -24,7 +24,8 @@
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "Sticky Notes application using MERN stack( MongoDB, Express, React, Node). A MERN full-stack app that users can post sticky-messages.",
     "tags": ["react", "MongoDB", "Express", "React", "Node"],
-    "source_code": "https://github.com/Vasilec92/Notes_application-BackEnd"
+    "source_code": "https://github.com/Vasilec92/Notes_application-BackEnd",
+    "demo": "https://notes-application-front.vercel.app/?title=tt&note=tt&importance=tt"
   },
   {
     "id": 4,
@@ -32,7 +33,8 @@
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "ToDo list in React.js, JS,HTML/CSS",
     "tags": ["react"],
-    "source_code": "https://github.com/Vasilec92/ToDo-list"
+    "source_code": "https://github.com/Vasilec92/ToDo-list",
+    "demo": "https://to-do-list-ruby-ten.vercel.app"
   },
   {
     "id": 5,
@@ -40,7 +42,8 @@
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "Application : flashcard quiz using React with an external API",
     "tags": ["react"],
-    "source_code": "https://github.com/Vasilec92/Flashcard-quiz"
+    "source_code": "https://github.com/Vasilec92/Flashcard-quiz",
+    "demo": "https://flashcard-quiz-seven.vercel.app"
   },
   {
     "id": 6,
@@ -48,6 +51,7 @@
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "Page to send out an agreement for the specified recipient to sign through Adobe APIs.",
     "tags": ["react"],
-    "source_code": "https://github.com/Vasilec92/AdobeSign_APP"
+    "source_code": "https://github.com/Vasilec92/AdobeSign_APP",
+    "demo": "https://adobe-sign-app.vercel.app"
   }
 ]
