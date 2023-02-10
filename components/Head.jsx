@@ -10,7 +10,7 @@ const CustomHead = ({ title }) => {
       />
       <meta
         name="keywords"
-        content="anna, anna vasileva, vasileva, web developer, vasileva web developer, anna developer, mern stack, anna portfolio"
+        content="anna, anna vasileva, vasileva, web developer, vasileva web developer, anna developer, mern stack, anna portfolio, javascript, react developper, front end defelloper"
       />
       <meta property="og:title" content="Anna Vasileva's Portfolio" />
       <meta

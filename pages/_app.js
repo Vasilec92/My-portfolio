@@ -1,17 +1,10 @@
-import {
-  useEffect,
-  useState
-} from "react";
+import { useEffect, useState } from "react";
 import Layout from "../components/Layout";
 import Head from "../components/Head";
 import "../styles/globals.css";
 import "../styles/themes.css";
 
-function MyApp({
-  Component,
-  pageProps
-}) {
-
+function MyApp({ Component, pageProps }) {
   useEffect(() => {
     if (localStorage.getItem("theme")) {
       document.documentElement.setAttribute(
@@ -21,16 +14,11 @@ function MyApp({
     }
   }, []);
 
-  return ( < Layout >
-    <
-    Head title = {
-      `Anna Vasileva | ${pageProps.title}`
-    }
-    /> <
-    Component {
-      ...pageProps
-    }
-    /> </Layout >
+  return (
+    <Layout>
+      <Head title={`Anna Vasileva | ${pageProps.title}`} />{" "}
+      <Component {...pageProps} />{" "}
+    </Layout>
   );
 }
 

@@ -29,7 +29,7 @@ const ContactPage = () => {
   return (
     <div className={styles.container}>
       <div>
-        <h1>Reach Out Via Socials</h1>
+        <h1>Reach Out Via Social</h1>
         <ContactCode />
       </div>
       {/*  <div>
@@ -88,12 +88,10 @@ const ContactPage = () => {
   );
 };
 
-{
-  /* export async function getStaticProps() {
+export async function getStaticProps() {
   return {
-    props: { title: 'Contact' },
+    props: { title: "Contact" },
   };
 }
- */
-}
+
 export default ContactPage;

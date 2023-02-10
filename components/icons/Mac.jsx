@@ -1,8 +1,6 @@
-function Illustration() {
+function Mac() {
   return (
     <svg
-      width={500}
-      height={450}
       xmlns="http://www.w3.org/2000/svg"
       enable-background="new 0 0 128 128"
       viewBox="0 0 128 128"
@@ -109,4 +107,4 @@ function Illustration() {
   );
 }
 
-export default Illustration;
+export default Mac;
