@@ -5,7 +5,8 @@
     "image": "https://imgur.com/tAZotn3.png",
     "description": "Expense tracker app using hooks (useState, useContext, useReducer)",
     "tags": ["react", "useState", "useContext", "useReducer", "front"],
-    "source_code": "https://github.com/Vasilec92/Expense-tracker-FRONT"
+    "source_code": "https://github.com/Vasilec92/Expense-tracker-FRONT",
+    "demo": "https://expense-tracker-front-ten.vercel.app"
   },
   {
     "id": 2,
