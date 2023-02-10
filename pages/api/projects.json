@@ -14,7 +14,8 @@
     "image": "https://imgur.com/8FFqaX8.png",
     "description": "Application React : Cooking Recipes using an external and open API",
     "tags": ["react", "front", "API"],
-    "source_code": "https://github.com/Vasilec92/Cooking-Recipes"
+    "source_code": "https://github.com/Vasilec92/Cooking-Recipes",
+    "demo": "https://cooking-recipes-six.vercel.app"
   },
 
   {
